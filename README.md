@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a **Robotics & Coding Engineer**, passionate about cod
 
 📧 Email Address: [godwinpromise49@gmail.com](mailto:godwinpromise49@gmail.com)  
 🌐 Portfolio: [promigowebsite.com](https://your-website-if-you-have-one)  
-🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/godwinpromise/) • [Twitter](https://twitter.com/yourhandle)
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/godwinpromise/) • [Twitter](https://www.instagram.com/promigoventures/) • [Facebook](https://web.facebook.com/officialpromigo/)
 
 ---
 
