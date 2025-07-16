@@ -23,7 +23,6 @@ Welcome to my GitHub! I'm a **Robotics & Coding Engineer**, passionate about cod
 **Specialties:** Robotics, AI/ML, Automation, Digital Marketing
 **Other Tools:** Canva, Google Sheets API, Git, SQL, Tableau
 
----
 
 ## 📫 Let's Connect!
 
@@ -31,7 +30,9 @@ Welcome to my GitHub! I'm a **Robotics & Coding Engineer**, passionate about cod
 🌐 Portfolio: [promigowebsite.com](https://your-website-if-you-have-one)  
 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/godwinpromise/) • [Twitter](https://www.instagram.com/promigoventures/) • [Facebook](https://web.facebook.com/officialpromigo/)
 
----
+
+![Promigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=promigo-ventures&show_icons=true&theme=github_dark)
+
 
 > 🚧 Always learning. Always building.
 
