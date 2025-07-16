@@ -23,6 +23,15 @@ Welcome to my GitHub! I'm a **Robotics & Coding Engineer**, passionate about cod
 **Specialties:** Robotics, AI/ML, Automation, Digital Marketing
 **Other Tools:** Canva, Google Sheets API, Git, SQL, Tableau
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![RPA](https://img.shields.io/badge/-Robotic%20Process%20Automation-blueviolet?style=flat)
+
 
 ## 📫 Let's Connect!
 
